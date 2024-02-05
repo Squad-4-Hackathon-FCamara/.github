@@ -34,6 +34,7 @@ O Orange Portfólio é uma plataforma dedicada a potencializar a visibilidade e 
 <a href="https://www.typescriptlang.org/"><img alt="TYPESCRIPT" src="https://img.shields.io/badge/typescript-ff5522?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="https://typeorm.io/"><img alt="TYPEORM" src="https://img.shields.io/badge/typeorm-ff5522?style=for-the-badge&logo=type-orm&logoColor=white"></a>
 <a href="https://www.postgresql.org/"><img alt="POSTGRE" src="https://img.shields.io/badge/postgresql-ff5522?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="https://swagger.io/"><img alt="SWAGGER" src="https://img.shields.io/badge/swagger-ff5522?style=for-the-badge&logo=swagger&logoColor=white"></a>
 
 ---
 
