@@ -38,6 +38,15 @@ O Orange Portfólio é uma plataforma dedicada a potencializar a visibilidade e 
 
 ---
 
+## 📁 Links uteis
+- 📢 Nosso [Pitch](https://youtu.be/aauuHwkP9pU?si=sFRf5KyTo_m4dFYg).
+- 🎬 Veja o nosso [vídeo de funcionalidades!](https://www.youtube.com/watch?v=1J2tfv7WYBY)
+- [HUB de conhecimento](https://notes-squad-4.vercel.app/)
+- [Trello](https://trello.com/w/squad4hackathonfcamara)
+- [Figma](https://www.figma.com/file/miD7bNP7eMfUs8ck1lb2JZ/Desafio---Programa-de-Forma%C3%A7%C3%A3o-5.0-(Copy)?type=design&node-id=51%3A1841&mode=design&t=RFvQxzOGA8eC8ssZ-1)
+
+---
+
 ## 🤝 Colaboradores
 
 Este projeto foi desenvolvido com a colaboração de:
